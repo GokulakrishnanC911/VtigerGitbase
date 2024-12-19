@@ -1,0 +1,6 @@
+{
+"Browser" : "Chrome",
+ "Url"    :"http://localhost:8888",
+"UserName" :"admin",
+"Password" :"admin"
+}
